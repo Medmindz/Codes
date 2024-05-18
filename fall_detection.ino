@@ -7,8 +7,8 @@
 
 
 
-static const char *account_sid = "AC9cee9a08c7cf7f2bd4c21935810d505b";
-static const char *auth_token = "0e677e26a75b84a3b6cf3ebb9007d2b9";
+static const char *account_sid = "<your_twilio_account_sid";
+static const char *auth_token = "your_twilio_account_auth_token";
 static const char *from_number = "+12676338371";
 static const char *to_number = "+94784445246";
 static const char *message = "Sent from my ESP32";
